@@ -1,0 +1,26 @@
+Project 1
+
+Group 5
+Group Members
+Akash Mahesh Mhatre - ld2746
+Sanchit Thakur - ii2682
+Vishnu Priya Alluri - cq5226
+Lepakshi Pavani Vemula -fj4342
+
+Using Facebook Photos API and Google App Engine to create a Social Media Application
+
+Using Facebook Photos API and Google Cloud Storage and Computer Vision API's for object detection.
+
+Introduction:
+We will retrieve a Facebook photo from the user’s Facebook profile using Graph API and we will further use the retrieved photo for processing 
+results through Google SaaS Computer Vision API for the desired result then we will use Google Analytics Platform (App Engine Server Side Analytics) 
+as it provides computing resources to collect, store, process, and report on these user-interactions.
+
+Proposal:
+The application will be able to access the photos of users on his/her Facebook profile using the Facebook Graph API and will store the photo in Google DataStrore.
+The cloud vision will be used to detect the objects in the photos and will return appropriate labels with respect to the image. Image object detection will be 
+used to classify the image and use this information for further analytics.
+
+Implementation:
+We will use Google Saas’s cloud API for image analytics and further use the analytics to classify image according to the usage and preference of the user, 
+the meta data of the images will be stored in the application to further perform and functions or build over the application itself.
