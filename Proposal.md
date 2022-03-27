@@ -1,14 +1,14 @@
-Project 1 - Proposal
-Using Facebook Photos API and Google App Engine to create a Social Media Application
+# Project 1 - Proposal.
+## Using Facebook Photos API and Google App Engine to create a Social Media Application.
 
-Group 5
-Akash Mahesh Mhatre - ld2746
-Sanchit Thakur - ii2682
-Vishnu Priya Alluri - cq5226
-Lepakshi Pavani Vemula -fj4342
+### Group 5.
+#### Akash Mahesh Mhatre - ld2746.
+#### Sanchit Thakur - ii2682.
+#### Vishnu Priya Alluri - cq5226.
+#### Lepakshi Pavani Vemula -fj4342.
 
 
-Using Facebook Photos API and Google Cloud Storage and Computer Vision API's to detect objects in an image and creating clusters of objects for classification of images.
+##### Using Facebook Photos API and Google Cloud Storage and Computer Vision API's to detect objects in an image and creating clusters of objects for classification of images.
 
 Introduction:
 The application will retrieve a Facebook photo from the user’s Facebook profile using Graph API and use the retrieved photo for processing results through Google SaaS Computer Vision API .
