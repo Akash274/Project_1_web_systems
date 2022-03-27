@@ -17,9 +17,9 @@ The result then will be used for Google Analytics Platform (App Engine Server Si
 Proposal:
 The application will be able to access the photos of users on his/her Facebook profile using the Facebook Graph API which is the primary way for the application to read and write to the Facebook Social Graph then the photos will be stored in Google DataStore. The Google VisionAI will be used to extrapolate data from photos to detect the objects and will return appropriate labels with respect to the image. Image object detection information will be used to classify the image. After extrapolation we will store the extrapolated data on the Google DataStore to fetch instantaneous data when called again in future and for further data analytics and exploration.
 Sequence Diagram:
-
+![screenshot image](https://github.com/Akash274/Project_1_web_systems/blob/main/diagrams/sequence_diagram_project_1.PNG)
 Flow Chart Diagram:
-
+![screenshot image](https://github.com/Akash274/Project_1_web_systems/blob/main/diagrams/flow_diagram_project_1.PNG)
 
 Implementation:
 The Application will be using Facebook Graph API to fetch data from the Facebook platform to access data of the user.
